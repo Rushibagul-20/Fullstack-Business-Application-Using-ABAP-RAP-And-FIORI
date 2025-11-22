@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abapGit version="v1.0.0">
+  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+    <asx:values>
+      /sap/opu/odata4/sap/zrap100_ui_travel_o4_200/srvd/sap/zrap100_ui_travel_200/0001/
+      ZRAP100_UI_TRAVEL_O4_200
+      OData V4 - UI
+      Service Binding for ZRAP100_UI_TRAVEL_200
+    </asx:values>
+  </asx:abap>
+</abapGit>
